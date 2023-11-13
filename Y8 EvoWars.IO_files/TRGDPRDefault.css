@@ -1,0 +1,13 @@
+#tr-main-container { position: fixed; padding: 15px; background-color: #ffecb3; color: #000; z-index: 99999; font-size: 1.3em; font-family: helvetica neue,Helvetica,Arial,sans-serif; box-sizing: border-box; display: none; }
+
+div#tr-main-container.top { top: 0; border-bottom: 1px solid #222; width: 100%; }
+div#tr-main-container.bot { bottom: 0; border-top: 1px solid #222; width: 100%; }
+div#tr-main-container.left { left: 0; top: 20px; border-right: 1px solid #222; height: 450px; width: 512px; }
+div#tr-main-container.right { right: 0; top: 20px; border-left: 1px solid #222; height: 450px; width: 512px; }
+
+#tr-main-container #tr-buttons-container { text-align: right; margin-top: 15px; margin-bottom: 10px; width: 100%; }
+
+#tr-buttons-container button { margin-right: 20px; padding: 15px; font-size: 0.9em; cursor: pointer; background-color: Transparent; border-radius: 15px; color: #000; border: none; }
+
+#tr-buttons-container #tr-yes-btn { background-color: #295dcc; color: #fff }
+
