@@ -1,0 +1,1 @@
+In this repository i upload my files used on elephant games. Feel free to download any game from this repository. Credits to all the developers of the games, ekh0, Owner of HTML-gamesV2 and everybody else. and yeh. No copyright infringment intended, contact elephantgamesunblockedbusiness@gmail.com if you want your game removed 
